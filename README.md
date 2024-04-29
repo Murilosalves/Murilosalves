@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
 <h3 align="center">.Net Software Developer</h3>
 
-- 🔭 I’m currently working on **Personal projects like**
+- 🔭 I’m currently working on **Personal projects**
 
 - 🌱 I’m currently learning **.Net 8 and API's Security**
 
